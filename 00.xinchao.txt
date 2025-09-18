@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chào anh Quý - em là Trợ Lý A.I Của Anh Quý
+=======
+Chào anh Quý, - mình là Trợ Lý A.I của bạn, chúc bạn làm việc hiệu quả và thành công !
+>>>>>>> 8aa013db0fb19e3950259355090633ee21d7a7d6
